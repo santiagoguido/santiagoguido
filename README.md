@@ -1,4 +1,4 @@
-Hi, I´m @santiagoguido, I´m interesed in learn all knowledge in universe, I love read of history and play soccer!
+Hi, I´m @santiagoguido, I´m interesed in learn all knowledge in universe, I love read latin history and play soccer!
 
 <!--- - 👋 Hi, I’m @santiagoguido
 - 👀 I’m interested in ...
