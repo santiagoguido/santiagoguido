@@ -5,8 +5,9 @@
 <img src="https://live.staticflickr.com/65535/52815631715_c270612afd_k.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagoguido&label=Profile%20views&color=0e75b6&style=flat" alt="santiagoguido" /> </p>
+[![GitHub followers](https://img.shields.io/github/followers/santiagoguido?style=social)](https://github.com/santiagoguido)
 
-- 🌱 I’m currently learning **Backend for mobile technologies**
+- 🌱 I’m currently learning **Fullstack for mobile technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
