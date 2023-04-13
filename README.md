@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagoguido&label=Profile%20views&color=0e75b6&style=flat" alt="santiagoguido" </p>
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/santiagoguido?style=social">
-  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/SantoDeveloper?style=social">
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/@SantoDeveloper?style=social">
 
 
 - 🌱 I’m currently learning **Fullstack for mobile technologies**
