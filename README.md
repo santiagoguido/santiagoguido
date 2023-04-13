@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Santiago Guido</h1>
-<h3 align="center">A passionate mobile developer from México</h3>
+<h3 align="center">A passionate mobile developer</h3>
 </div>
 <img src="https://live.staticflickr.com/65535/52815631715_c270612afd_k.jpg">
 
