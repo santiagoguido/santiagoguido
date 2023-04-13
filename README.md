@@ -1,5 +1,8 @@
+<div align="center">
 <h1 align="center">Hi 👋, I'm Santiago Guido</h1>
 <h3 align="center">A passionate mobile developer from México</h3>
+</div>
+<img src="https://flic.kr/p/2ot6yTz">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagoguido&label=Profile%20views&color=0e75b6&style=flat" alt="santiagoguido" /> </p>
 
